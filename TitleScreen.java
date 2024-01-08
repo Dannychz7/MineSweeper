@@ -1,5 +1,5 @@
 /*----------------------------------------------------------------
- *  Author:   K. Walsh
+ *  Author:   K. Walsh and Daniel Chavez
  *  Email:    kwalsh@holycross.edu
  *  Written:  7/13/2015
  *  Update:   12/08/2022
